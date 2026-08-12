@@ -1,0 +1,12 @@
+# Logs & temp files
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# Local SQLite database (optional to ignore or commit initial schema)
+# agentcy.db.json
+
+# Environment variables
+.env
